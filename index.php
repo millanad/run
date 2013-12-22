@@ -1,3 +1,3 @@
 <?php
-	echo “Hi fucking runners world!”;
+	echo “Hi runners world!”;
 ?>
